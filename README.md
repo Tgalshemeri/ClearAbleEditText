@@ -22,5 +22,5 @@ Step 2. Add the dependency
     <com.treaf.clearableedittext.ClearableEditText android:layout_width="match_parent" android:layout_height="wrap_content"/>
 
   
-  
+  You can support by buying me a coffee [Support Me](https://www.buymeacoffee.com/talsh)
   
